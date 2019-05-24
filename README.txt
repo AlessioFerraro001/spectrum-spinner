@@ -1,0 +1,1 @@
+This program requires no additional libraries to function and compliles like an ordinary Android program.
